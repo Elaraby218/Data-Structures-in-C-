@@ -14,21 +14,21 @@ One of the basic operations performed on a list is to process each node of the l
 requires the list to be traversed starting at the first node. Moreover, a specific application requires each node to be processed in a very specific way. A common technique to accomplish this is to provide an iterator.
 
 # Linked list Iterator (ADT)
-![image](https://github.com/elaraby217/Data_Structure/assets/116038661/b07cc031-b682-4c11-90c5-42a14ce810fd)
+![image](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/linked_list)
 
 # Linked List (ADT)
-![image](https://github.com/elaraby217/Data_Structure/assets/116038661/18ddcdd3-773d-4b33-b5f6-64cd742cc070)
+![image](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/linked_list)
 
 # Unordered Linked List(ADT)
-![image](https://github.com/elaraby217/Data_Structure/assets/116038661/002ed13f-1edc-43b0-a0de-c1923ec218b2)
+![image](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/linked_list)
 
 # Oredered linked list (ADT)
-![image](https://github.com/elaraby217/Data_Structure/assets/116038661/a3db4a3d-2f6f-4a1d-8116-ca28115bf92e)
+![image](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/linked_list)
 
-# [Doubly Linked list](https://github.com/elaraby217/Data_Structure/tree/main/doubly%20linked%20list)
-
-
-# [Stack](https://github.com/elaraby217/Data_Structure/tree/main/Stack)
+# [Doubly Linked list](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/doubly%20linked%20list)
 
 
-# [Queue](https://github.com/elaraby217/Data_Structure/tree/main/queues)
+# [Stack](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/Stack)
+
+
+# [Queue](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/queues)
