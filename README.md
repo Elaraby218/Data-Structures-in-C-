@@ -3,7 +3,7 @@ Thie repo contain data structures implemented by Mohamed Ramadan Elaraby
 
 List based on array added to the repo --> [listarray](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/list_array)
 ----------------------------------------------------------------------------------------------------------------------------
-# [Linked list](https://github.com/elaraby217/Data_Structure/tree/main/linked_list) 
+# [Linked list](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/linked_list) 
 
 i implemented two types of linked list in this ( ordered linked list , unordered linkedlist)
 the main difference between is ordered linked list is sorted (in my implementation sorted in ascending order ) but, unordered linked list is not sorted 
