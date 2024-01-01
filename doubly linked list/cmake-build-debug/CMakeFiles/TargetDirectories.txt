@@ -1,0 +1,3 @@
+G:/partation FFFFF/data structure codes/github ver/doubly linked list/cmake-build-debug/CMakeFiles/doubly_linked_list.dir
+G:/partation FFFFF/data structure codes/github ver/doubly linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/partation FFFFF/data structure codes/github ver/doubly linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
