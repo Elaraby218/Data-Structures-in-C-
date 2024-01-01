@@ -1,7 +1,7 @@
 # Data_Structure
 Thie repo contain data structures implemented by Mohamed Ramadan Elaraby
 
-List based on array added to the repo --> [listarray](https://github.com/elaraby217/Data_Structure/tree/main/list_array)
+List based on array added to the repo --> [listarray](https://github.com/Elaraby218/Data-Structures-in-C-/tree/main/list_array)
 ----------------------------------------------------------------------------------------------------------------------------
 # [Linked list](https://github.com/elaraby217/Data_Structure/tree/main/linked_list) 
 
